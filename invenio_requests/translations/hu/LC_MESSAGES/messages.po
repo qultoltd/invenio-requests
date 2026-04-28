@@ -7,19 +7,19 @@
 # Translators:
 # Andrea Dömötör, 2024
 # j k, 2025
-# Zoltán Kanász-Nagy, 2025
+# Zoltán Kanász-Nagy, 2026
 # 
 #, fuzzy
 msgid ""
 msgstr ""
-"Project-Id-Version: invenio-requests 5.5.1\n"
+"Project-Id-Version: invenio-requests 7.0.0\n"
 "Report-Msgid-Bugs-To: info@inveniosoftware.org\n"
-"POT-Creation-Date: 2025-03-27 14:12+0000\n"
+"POT-Creation-Date: 2025-07-08 19:57+0000\n"
 "PO-Revision-Date: 2022-02-15 12:46+0000\n"
-"Last-Translator: Zoltán Kanász-Nagy, 2025\n"
+"Last-Translator: Zoltán Kanász-Nagy, 2026\n"
 "Language-Team: Hungarian (https://app.transifex.com/inveniosoftware/teams/23537/hu/)\n"
 "MIME-Version: 1.0\n"
-"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Generated-By: Babel 2.17.0\n"
 "Language: hu\n"
@@ -121,7 +121,7 @@ msgstr "Visszavonva"
 #: invenio_requests/services/requests/facets.py:53
 #: invenio_requests/services/requests/facets.py:55
 msgid "Open"
-msgstr "Megnyitás"
+msgstr "Nyílt"
 
 #: invenio_requests/services/requests/facets.py:56
 msgid "Closed"
